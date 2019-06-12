@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204116805247",
+    "firebase_url": "https://exponotification-df33b.firebaseio.com",
+    "project_id": "exponotification-df33b",
+    "storage_bucket": "exponotification-df33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204116805247:android:02d5d61975e60685",
+        "android_client_info": {
+          "package_name": "com.fcm.expo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204116805247-dh6cj3q5518t4vmh2kil8ta0fc13bjhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcm.expo",
+            "certificate_hash": "105846162b138a02702a27da7d3833763d9864ac"
+          }
+        },
+        {
+          "client_id": "204116805247-kfpffj2ddlvvusso3bhch57vp7qmo61m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClWzQ-6qPaoD4hb8odvzTZxAk9-rpt0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204116805247-kfpffj2ddlvvusso3bhch57vp7qmo61m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
